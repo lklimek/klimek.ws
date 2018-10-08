@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 date: 2018-10-08T11:45:17+02:00
-draft: true
+draft: false
 ---
 
 I'm an experienced IT engineer and manager with more than 18 years of 
