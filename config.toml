@@ -70,7 +70,7 @@ disqusShortname = ""
     # Button Style 1
     [[params.navigation.button1]]
       name = "Contact"
-      url = "#contact"
+      url = "https://klimek.ws/#contact"
 
     # Button Style 2
 #    [[params.navigation.button2]]
@@ -100,15 +100,22 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "LinkedIn"
-      subtitle = "See my experience"
-      image = "1024x768.png"
+      subtitle = "See my resume / experience"
+      image = "pic04.jpg"
       url = "https://linkedin.com/in/lukaszklimek"
 
     [[params.tiles.showcase]]
       title = "Manago.cloud"
-      subtitle = "Openstack DevOps team"
+      subtitle = "Manago.Cloud is a dedicated DevOps team with focus on Openstack"
       image = "pic03.jpg"
       url = "https://manago.cloud"
+
+    [[params.tiles.showcase]]
+      title = "Schedule a call"
+      subtitle = "Wanna talk? Schedule a Skype or Zoom call"
+      image = "pic06.jpg"
+      url = "https://calendly.com/lklimek"
+
 
 #    [[params.tiles.showcase]]
 #      title = "Ipsum"
@@ -167,13 +174,14 @@ disqusShortname = ""
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
     # formEmail = "example@domain.com"
-    #fromEmail = "lists@klimek.ws"
+    formEmail = "website@klimek.ws"
+
     # Contact Section
     # You can add multiple emails, phone numbers, or addresses
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "lukasz@klimek.ws"
+    email = "website@klimek.ws"
 
     [[params.contact.phone]]
     title = "Phone"
