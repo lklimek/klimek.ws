@@ -75,7 +75,7 @@ disqusShortname = ""
     # Button Style 2
 #    [[params.navigation.button2]]
 #      name = "Log In"
-#      url = "#"
+    #      url = "#"
 
 
   # Banner section
@@ -94,12 +94,12 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "About me"
-      subtitle = "My resume"
+      subtitle = "See my short bio"
       image = "pic01.jpg"
-      url = "blogs/aliquam"
+      url = "about.me"
 
     [[params.tiles.showcase]]
-      title = "LinkedIn"
+      title = "LinkedIn Profile"
       subtitle = "See my resume / experience"
       image = "pic04.jpg"
       url = "https://linkedin.com/in/lukaszklimek"
