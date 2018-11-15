@@ -20,7 +20,7 @@ In the context of General Data Protection Regulation, the Data Controller is:
 
 For all inquiries and complaints regarding the security and privacy of your data please contact our Data Protection Officer:
 
-* info@softinn.eu
+* info (at) softinn.eu
 
 ## Data Privacy
 

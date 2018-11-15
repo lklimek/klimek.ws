@@ -56,4 +56,6 @@ We need someone who will be on-call, react on alerts, quickly workaround issues 
 To apply, please fill out our [application form](https://goo.gl/forms/4F0DLGrS4cPl76823).
 
 
+#### Personal data processing
 
+To get formal information about the company and how we process your personal data, please refer to our [GDPR page](/gdpr).
