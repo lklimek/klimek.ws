@@ -1,5 +1,6 @@
 ---
 title: "Linux Problem Solver"
+description: "Join us as a Linux Problem Solver"
 date: 2018-11-15T10:18:42+01:00
 draft: false
 ---
@@ -10,7 +11,7 @@ Currently we are looking for new person to join our team as a Linux Problem Solv
 
 We need someone who will be on-call, react on alerts, quickly workaround issues and incidents, determine root cause of these issues and fix them as soon as possible.
 
-Your main tasks will be to:
+## Your main tasks will be to:
 
 - investigate and fix alerts issued by our monitoring systems,
 - perform root cause analysis,
@@ -19,7 +20,7 @@ Your main tasks will be to:
 - automate any changes using Puppet.
 
 
-Our requirements:
+## Our requirements:
 
 - Linux (we use CentOS 7)
 - great problem solving skills
@@ -29,18 +30,18 @@ Our requirements:
 - ElasticSearch
 - Docker
 - Squid
-- J2EE
+- J2EE administration
 - HAProxy
-- high availability
+
 - pacemaker / corosync
 - tcpdump / wireshark
 - rsyslog
 - postgresql
 
-Nice to have:
+## Nice to have:
 
 - bacula/bareos
-- Amazon S3, Route53
+- Amazon Web Services (S3, Route53, EC2)
 - Foreman/Katello
 - IPSec
 - OpenVPN
@@ -48,10 +49,14 @@ Nice to have:
 - Jenkins
 - Openstack
 
-Location:
+## Location:
 
 - remote or in our office in Szczecin, Poland
 
-Apply by filling the form below:
 
-{{< apply-form Linux-Problem-Solver>}}
+# Apply now
+
+To apply, please fill out our [application form](https://goo.gl/forms/4F0DLGrS4cPl76823).
+
+
+
