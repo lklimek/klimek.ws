@@ -32,7 +32,6 @@ We need someone who will be on-call, react on alerts, quickly workaround issues 
 - Squid
 - J2EE administration
 - HAProxy
-
 - pacemaker / corosync
 - tcpdump / wireshark
 - rsyslog
