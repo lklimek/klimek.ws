@@ -1,13 +1,13 @@
 ---
-title: "Linux Problem Solver"
-description: "Join us as a Linux Problem Solver"
+title: "Linux SysOps/Problem Solver"
+description: "Join us as a Linux SysOps/Problem Solver"
 date: 2018-11-15T10:18:42+01:00
 draft: false
 ---
 
 We are a team of DevOps engineers, focused on building and maintaining of complex IT systems for international customers.
 
-Currently we are looking for new person to join our team as a Linux Problem Solver. 
+Currently we are looking for new person to join our team as a Linux SysOps/Problem Solver. 
 
 We need someone who will be on-call, react on alerts, quickly workaround issues and incidents, determine root cause of these issues and fix them as soon as possible.
 
