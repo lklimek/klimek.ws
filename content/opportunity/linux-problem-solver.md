@@ -22,6 +22,7 @@ We need someone who will be on-call, react on alerts, quickly workaround issues 
 
 - Linux (we use CentOS 7)
 - great problem solving skills
+- Good communication in English
 - Puppet
 - Kafka
 - Graylog
