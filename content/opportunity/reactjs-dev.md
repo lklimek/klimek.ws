@@ -4,17 +4,17 @@ date: 2018-11-27T16:07:14+01:00
 draft: false
 ---
 
-We are looking for an experienced ReactJS front-end developer, who will lead our efforts to deliver easy-to-use, elegant front-end for our platform.
+We are looking for an experienced ReactJS front-end developer, who will lead our efforts to deliver easy-to-use, elegant web application for [acreto.io](https://www.acreto.io) platform.
 
 You will be responsible for:
 
 - Technical design and implementation of front-end to our platform, based on wireframes prepared by UI/UX team
 - Consume REST APIs developed by other team members
-- Providing requirements to API developers, to satisfy our needs
+- Work with API developers, QA engineers, DevOps and marketing team to deliver great solution for our customers
 - Documenting your work in confluence
 - Keep track of your work in Jira
 
-Required skills:
+### Required skills:
 
 - ReactJS, HTML, Javascript, jQuery, CSS
 - Use of REST web services
@@ -26,7 +26,7 @@ Required skills:
 - Communicate in English during video and audio calls
 
 
-Nice to have:
+### Nice to have:
 
 - ElasticSearch 
 - Basic understanding of :
@@ -36,7 +36,7 @@ Nice to have:
   - SSL and certificates
 
 
-Work system:
+### Work system:
 
 - Majority of the team works remotely, but we have offices in US (New Jersey) and Poland (Szczecin).
 - We meet "in-person" every 2-3 months to discuss progress, boost cooperation and plan for future; meetings are organized in US or EU.
@@ -45,3 +45,6 @@ Work system:
 - We have daily meetings everyday at 8AM Eastern.
 - We need a minimum commitment of 30 hours / week, preferably 40 h / week.
 
+### How to apply:
+
+Send your Resume/CV to careers (at) acreto.io.
