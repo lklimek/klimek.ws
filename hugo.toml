@@ -1,8 +1,10 @@
 baseURL = "https://klimek.ws/"
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
 # Automatically generate robots.txt
 enableRobotsTXT = true
-languageCode = "en"
+
 theme = "gokarna"
 title = "Łukasz Klimek"
 
@@ -14,6 +16,19 @@ title = "Łukasz Klimek"
       {name = "linkedin", url = "https://linkedin.com/in/lukaszklimek/"},
       {name = "github", url = "https://github.com/lklimek"},
     ]
+
+[languages]
+  [languages.en]
+    disabled = false
+    languageCode = 'en'
+    languageName = 'English'
+    weight = 0
+
+  [languages.pl]
+    disabled = false
+    languageCode = 'pl'
+    languageName = 'Polski'
+    weight = 1
 
 [menu]
 #  [[menu.main]]
