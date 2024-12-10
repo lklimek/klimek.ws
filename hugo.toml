@@ -16,6 +16,9 @@ title = "Łukasz Klimek"
       {name = "linkedin", url = "https://linkedin.com/in/lukaszklimek/"},
       {name = "github", url = "https://github.com/lklimek"},
     ]
+    customHeadHTML = '''
+       <script defer src="https://cloud.umami.is/script.js" data-website-id="da8ebb13-61ff-4884-98e9-3aeb9dc193a6"></script>
+    '''
 
 [languages]
   [languages.en]
