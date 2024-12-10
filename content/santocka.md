@@ -4,9 +4,11 @@ draft = false
 title = 'Santocka'
 +++
 
-# Mieszkanie dla aktywnych - Santocka 19
+# Santocka 19 - Apartment for Active People
 
-* [kliknij aby otworzyć galerię zdjęć](https://photos.app.goo.gl/ryPY6ZrDjfnn5W4X6)
+* [opis oferty, polski](https://docs.google.com/document/d/1vMh4_1yiSBI-LVrVDu0gyGspdXN5vR28An7RawuNdR4/edit?usp=sharing)
+* [description, english](https://docs.google.com/document/d/1r0e4DIaylvdyHPKAv5Ee_z0cPnETgR1VOgSiZ5mbSaY/edit?usp=sharing)
+* [photos / zdjęcia](https://photos.app.goo.gl/ryPY6ZrDjfnn5W4X6)
 
 ## Lokalizacja
 
