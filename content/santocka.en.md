@@ -4,6 +4,7 @@ draft = false
 title = 'Santocka 19 - Apartment for Active People'
 type = 'page'
 image = '/santocka/pano.jpg'
+aliases = ['/santocka']
 +++
 
 # Santocka 19 - Apartment for Active People
