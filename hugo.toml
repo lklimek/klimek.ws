@@ -89,8 +89,6 @@ title = "Łukasz Klimek"
   [[menu.main.params]]
    NewPage = true
 
-relativeURLs = true
-
 [minify]
     minifyOutput = true
 
