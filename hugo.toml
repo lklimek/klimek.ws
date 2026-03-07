@@ -36,7 +36,7 @@ title = "Łukasz Klimek"
 [menu]
   [[menu.main]]
     name = "AI"
-    url = "/ai/"
+    url = "/en/ai/"
     weight = 1
 
 #  [[menu.main]]
