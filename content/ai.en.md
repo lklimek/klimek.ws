@@ -113,9 +113,9 @@ aliases = ['/ai']
 <div class="ai-projects">
 
   <div class="ai-card">
-    <div class="card-label">Code Review</div>
+    <div class="card-label">Dev Companion</div>
     <h3>Claudius <span style="font-size:0.5em; opacity:0.5;">the Magnificent</span></h3>
-    <p class="card-desc">A magnificently arrogant Claude Code plugin. Spawns a team of specialist agents that grumpy-review your code, then lets you triage the findings like a civilized human.</p>
+    <p class="card-desc">A magnificently arrogant Claude Code plugin that manages your development workflow. Drives implementation, spawns specialist agents for grumpy code reviews, and lets you triage the findings like a civilized human.</p>
     <div class="card-tags">
       <span class="card-tag">Claude Code</span>
       <span class="card-tag">Multi-Agent</span>
