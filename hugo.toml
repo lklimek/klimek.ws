@@ -34,6 +34,11 @@ title = "Łukasz Klimek"
     weight = 1
 
 [menu]
+  [[menu.main]]
+    name = "AI"
+    url = "/en/ai/"
+    weight = 1
+
 #  [[menu.main]]
     # Display name
 #    name = "Posts"

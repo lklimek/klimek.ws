@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo"
+command = "hugo --baseURL ${DEPLOY_PRIME_URL:-https://klimek.ws}"
 
 [context.production.environment]
 HUGO_VERSION = "0.157.0"
