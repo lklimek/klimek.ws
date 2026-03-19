@@ -130,6 +130,10 @@ aliases = ['/ai']
   stroke-linecap: round;
   stroke-linejoin: round;
 }
+.ai-card a.card-title-link {
+  color: inherit;
+  text-decoration: none;
+}
 
 @media (max-width: 480px) {
   .ai-card .card-features {
@@ -150,11 +154,13 @@ aliases = ['/ai']
 <div class="ai-projects">
 
   <div class="ai-card">
-    <div class="card-header">
-      <h3>Claudius <span style="font-size:0.5em; opacity:0.5;">the Magnificent</span></h3>
-      <span class="card-label">Dev Companion</span>
-    </div>
-    <p class="card-desc">A magnificently arrogant Claude Code plugin that manages your development workflow. Drives implementation, spawns specialist agents for grumpy code reviews, and lets you triage the findings like a civilized human.</p>
+    <a href="/en/ai/claudius/" class="card-title-link">
+      <div class="card-header">
+        <h3>Claudius <span style="font-size:0.5em; opacity:0.5;">the Magnificent</span></h3>
+        <span class="card-label">Dev Companion</span>
+      </div>
+      <p class="card-desc">A magnificently arrogant Claude Code plugin that manages your development workflow. Drives implementation, spawns specialist agents for grumpy code reviews, and lets you triage the findings like a civilized human.</p>
+    </a>
     <ul class="card-features">
       <li>Multi-agent code review</li>
       <li>Automated triage workflow</li>
