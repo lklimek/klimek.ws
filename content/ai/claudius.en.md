@@ -29,13 +29,14 @@ aliases = ['/ai/claudius']
 
 .team-grid {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: repeat(3, 1fr);
   gap: 28px;
-  max-width: 680px;
+  max-width: 960px;
   margin: 0 auto 60px;
 }
 
 .team-lead {
+  grid-column: 1 / -1;
   border: 1.5px solid currentColor;
   border-radius: 14px;
   padding: 32px 28px;
@@ -56,8 +57,10 @@ aliases = ['/ai/claudius']
   border-radius: 12px;
   padding: 24px 24px;
   display: flex;
-  gap: 20px;
-  align-items: flex-start;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 16px;
   opacity: 0.85;
   transition: opacity 0.2s ease, transform 0.2s ease;
 }
@@ -117,6 +120,7 @@ aliases = ['/ai/claudius']
   display: flex;
   flex-wrap: wrap;
   gap: 5px;
+  justify-content: center;
 }
 .member-tag {
   font-size: 0.68em;
@@ -151,7 +155,7 @@ aliases = ['/ai/claudius']
 
 /* Showcase section */
 .showcase-section {
-  max-width: 680px;
+  max-width: 960px;
   margin: 0 auto 60px;
 }
 .showcase-section h2 {
@@ -272,14 +276,19 @@ aliases = ['/ai/claudius']
   opacity: 0.8;
 }
 
+@media (max-width: 768px) {
+  .team-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
 @media (max-width: 520px) {
-  .team-lead, .team-member {
+  .team-grid {
+    grid-template-columns: 1fr;
+  }
+  .team-lead {
     flex-direction: column;
     align-items: center;
     text-align: center;
-  }
-  .member-tags {
-    justify-content: center;
   }
   .gains-grid {
     grid-template-columns: 1fr;
