@@ -29,9 +29,9 @@ aliases = ['/ai/claudius']
 
 .team-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 28px;
-  max-width: 960px;
+  max-width: 760px;
   margin: 0 auto 60px;
 }
 
@@ -155,7 +155,7 @@ aliases = ['/ai/claudius']
 
 /* Showcase section */
 .showcase-section {
-  max-width: 960px;
+  max-width: 760px;
   margin: 0 auto 60px;
 }
 .showcase-section h2 {
@@ -276,11 +276,6 @@ aliases = ['/ai/claudius']
   opacity: 0.8;
 }
 
-@media (max-width: 768px) {
-  .team-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
 @media (max-width: 520px) {
   .team-grid {
     grid-template-columns: 1fr;
