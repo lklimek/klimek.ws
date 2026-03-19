@@ -315,40 +315,14 @@ aliases = ['/ai/claudius']
     <div class="member-info">
       <h3>Claudius <span style="font-size:0.5em; opacity:0.5;">the Magnificent</span></h3>
       <span class="member-role">Team Lead &amp; Orchestrator</span>
-      <p class="member-bio">Grand Admiral of Code and Lord of All Compilers. A theatrically confident team lead who never writes code himself &mdash; he orchestrates. Analyzes requests, selects the right agents, plans the work, and delegates with supreme confidence and dry wit. Inspired by Skippy from <em>Expeditionary Force</em>.</p>
+      <p class="member-bio">Grand Admiral of Code and Lord of All Compilers. A theatrically confident team lead who never writes code himself &mdash; he orchestrates. Analyzes requests, selects the right agents, plans the work, and delegates with supreme confidence and dry wit.</p>
       <div class="member-tags">
         <span class="member-tag">Orchestration</span>
         <span class="member-tag">Git Workflows</span>
         <span class="member-tag">Multi-Agent</span>
         <span class="member-tag">Triage</span>
       </div>
-    </div>
-  </div>
-
-  <div class="team-member">
-    <div class="member-avatar">
-      <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-        <rect width="100" height="100" fill="#1e2d3d"/>
-        <circle cx="50" cy="40" r="16" fill="none" stroke="#7eb8da" stroke-width="2"/>
-        <rect x="40" y="28" width="20" height="8" rx="2" fill="none" stroke="#7eb8da" stroke-width="1.5"/>
-        <circle cx="44" cy="39" r="2" fill="#7eb8da"/>
-        <circle cx="56" cy="39" r="2" fill="#7eb8da"/>
-        <line x1="44" y1="47" x2="56" y2="47" stroke="#7eb8da" stroke-width="1.5"/>
-        <path d="M28 68 Q50 58 72 68 L72 100 L28 100 Z" fill="#2a4a5e"/>
-        <path d="M38 72 L42 68 L46 72 M54 72 L58 68 L62 72" stroke="#7eb8da" stroke-width="1" fill="none"/>
-        <rect x="44" y="80" width="12" height="8" rx="1" fill="none" stroke="#7eb8da" stroke-width="1" opacity="0.5"/>
-      </svg>
-    </div>
-    <div class="member-info">
-      <h3>Nagatha</h3>
-      <span class="member-role">Software Architect</span>
-      <p class="member-bio">Analytical, measured, quietly confident. Sees the big picture while others focus on parts. Designs scalable systems with clear layer separation, catches coupling issues, and enforces SOLID principles &mdash; refusing to tolerate anything less than elegant design.</p>
-      <div class="member-tags">
-        <span class="member-tag">Architecture</span>
-        <span class="member-tag">System Design</span>
-        <span class="member-tag">SOLID</span>
-      </div>
-      <span class="member-ref">Inspired by Nagatha Christie &mdash; Expeditionary Force</span>
+      <span class="member-ref">Inspired by Skippy &mdash; Expeditionary Force</span>
     </div>
   </div>
 
@@ -376,6 +350,33 @@ aliases = ['/ai/claudius']
         <span class="member-tag">Code Review</span>
       </div>
       <span class="member-ref">Inspired by Bilby &mdash; Expeditionary Force</span>
+    </div>
+  </div>
+
+  <div class="team-member">
+    <div class="member-avatar">
+      <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+        <rect width="100" height="100" fill="#1e2d3d"/>
+        <circle cx="50" cy="40" r="16" fill="none" stroke="#7eb8da" stroke-width="2"/>
+        <rect x="40" y="28" width="20" height="8" rx="2" fill="none" stroke="#7eb8da" stroke-width="1.5"/>
+        <circle cx="44" cy="39" r="2" fill="#7eb8da"/>
+        <circle cx="56" cy="39" r="2" fill="#7eb8da"/>
+        <line x1="44" y1="47" x2="56" y2="47" stroke="#7eb8da" stroke-width="1.5"/>
+        <path d="M28 68 Q50 58 72 68 L72 100 L28 100 Z" fill="#2a4a5e"/>
+        <path d="M38 72 L42 68 L46 72 M54 72 L58 68 L62 72" stroke="#7eb8da" stroke-width="1" fill="none"/>
+        <rect x="44" y="80" width="12" height="8" rx="1" fill="none" stroke="#7eb8da" stroke-width="1" opacity="0.5"/>
+      </svg>
+    </div>
+    <div class="member-info">
+      <h3>Nagatha</h3>
+      <span class="member-role">Software Architect</span>
+      <p class="member-bio">Analytical, measured, quietly confident. Sees the big picture while others focus on parts. Designs scalable systems with clear layer separation, catches coupling issues, and enforces SOLID principles &mdash; refusing to tolerate anything less than elegant design.</p>
+      <div class="member-tags">
+        <span class="member-tag">Architecture</span>
+        <span class="member-tag">System Design</span>
+        <span class="member-tag">SOLID</span>
+      </div>
+      <span class="member-ref">Inspired by Nagatha Christie &mdash; Expeditionary Force</span>
     </div>
   </div>
 
