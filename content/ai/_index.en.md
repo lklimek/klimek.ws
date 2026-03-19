@@ -130,6 +130,10 @@ aliases = ['/ai']
   stroke-linecap: round;
   stroke-linejoin: round;
 }
+.ai-card a.card-title-link {
+  color: inherit;
+  text-decoration: none;
+}
 
 @media (max-width: 480px) {
   .ai-card .card-features {
@@ -150,11 +154,13 @@ aliases = ['/ai']
 <div class="ai-projects">
 
   <div class="ai-card">
-    <div class="card-header">
-      <h3>Claudius <span style="font-size:0.5em; opacity:0.5;">the Magnificent</span></h3>
-      <span class="card-label">Dev Companion</span>
-    </div>
-    <p class="card-desc">A magnificently arrogant Claude Code plugin that manages your development workflow. Drives implementation, spawns specialist agents for grumpy code reviews, and lets you triage the findings like a civilized human.</p>
+    <a href="/en/ai/claudius/" class="card-title-link">
+      <div class="card-header">
+        <h3>Claudius <span style="font-size:0.5em; opacity:0.5;">the Magnificent</span></h3>
+        <span class="card-label">Dev Companion</span>
+      </div>
+      <p class="card-desc">A magnificently arrogant Claude Code plugin that manages your development workflow. Drives implementation, spawns specialist agents for grumpy code reviews, and lets you triage the findings like a civilized human.</p>
+    </a>
     <ul class="card-features">
       <li>Multi-agent code review</li>
       <li>Automated triage workflow</li>
@@ -166,10 +172,16 @@ aliases = ['/ai']
       <span class="card-tag">Multi-Agent</span>
       <span class="card-tag">Code Review</span>
     </div>
-    <a href="https://github.com/lklimek/claudius" class="card-link" target="_blank">
-      <svg viewBox="0 0 24 24"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
-      GitHub
-    </a>
+    <div style="display: flex; gap: 16px; align-items: center; flex-wrap: wrap;">
+      <a href="https://github.com/lklimek/claudius" class="card-link" target="_blank">
+        <svg viewBox="0 0 24 24"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
+        GitHub
+      </a>
+      <a href="/en/ai/claudius/" class="card-link">
+        <svg viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+        Meet the Team
+      </a>
+    </div>
   </div>
 
   <div class="ai-card">
